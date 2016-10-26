@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ca2c0e4aa7a41e81fc11ac70b735e2cd",
+    "hash": "58d15252e7d0c264d6b87ef5e3032b9e",
     "content-hash": "3377e02f280c7cc9fd436adbe5e96ea8",
     "packages": [
         {
@@ -137,12 +137,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zhangbaitong/plume.git",
-                "reference": "b7ebf2e4b3adfd0a31fced3df3662bd27401c730"
+                "reference": "37615643a880eb90935e01ae4201fa2845556755"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zhangbaitong/plume/zipball/b7ebf2e4b3adfd0a31fced3df3662bd27401c730",
-                "reference": "b7ebf2e4b3adfd0a31fced3df3662bd27401c730",
+                "url": "https://api.github.com/repos/zhangbaitong/plume/zipball/37615643a880eb90935e01ae4201fa2845556755",
+                "reference": "37615643a880eb90935e01ae4201fa2845556755",
                 "shasum": ""
             },
             "require": {
@@ -171,7 +171,7 @@
                 "MIT"
             ],
             "description": "A micro framework for PHP.",
-            "time": "2016-10-26 07:24:18"
+            "time": "2016-10-26 08:22:18"
         },
         {
             "name": "psr/log",

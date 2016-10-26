@@ -6,7 +6,7 @@ use Plume\Plume;
 
 $app = new Plume();
 
-$app->env(Plume::ENV_DEV);
+$app->env(Plume::ENV_PROD);
 
 $app->run();
 
