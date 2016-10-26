@@ -137,12 +137,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zhangbaitong/plume.git",
-                "reference": "37615643a880eb90935e01ae4201fa2845556755"
+                "reference": "06e5b421d4653615ae8350f9774ee18b071095e1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zhangbaitong/plume/zipball/37615643a880eb90935e01ae4201fa2845556755",
-                "reference": "37615643a880eb90935e01ae4201fa2845556755",
+                "url": "https://api.github.com/repos/zhangbaitong/plume/zipball/06e5b421d4653615ae8350f9774ee18b071095e1",
+                "reference": "06e5b421d4653615ae8350f9774ee18b071095e1",
                 "shasum": ""
             },
             "require": {
@@ -171,7 +171,7 @@
                 "MIT"
             ],
             "description": "A micro framework for PHP.",
-            "time": "2016-10-26 08:22:18"
+            "time": "2016-10-26 09:44:09"
         },
         {
             "name": "psr/log",
