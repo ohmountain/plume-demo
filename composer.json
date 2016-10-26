@@ -1,0 +1,21 @@
+{
+    "name": "renshan/plume-demo",
+    "description": "A demo for plume",
+    "type": "project",
+    "require": {
+        "plume/plume": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "renshan",
+            "email": "1005110700@qq.com"
+        }
+    ],
+		"autoload": {
+			"psr-4": {
+				"" : "src/"
+			}
+		},
+    "minimum-stability": "dev"
+}
